@@ -1,4 +1,4 @@
-# Customer Churn prediction
+# Customer Churn Prediction
 
 The objective of this exercise to build a binary classifier that predicts if a bank’s customer is going to churn or not. 
 
